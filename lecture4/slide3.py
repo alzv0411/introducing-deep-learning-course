@@ -45,6 +45,10 @@ if __name__ == '__main__':
 
         print("weight_deltas: ", weight_deltas)
 
-        weights = weights - (weight_deltas * alpha)
+        weight_deltas_alpha = weight_deltas * alpha
+
+        print("weight_deltas_alpha: ", weight_deltas_alpha)
+
+        weights = weights - weight_deltas_alpha
 
         print("new_weights: ", weights)
