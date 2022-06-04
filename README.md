@@ -2,7 +2,7 @@
 
 ### Lectures
 
-[![](https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg)](https://www.youtube.com/playlist?list=PLj2kg7A2Ti-BR7PWYShVMA9NfPlr7_PAS)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/320px-YouTube_Logo_2017.svg.png)](https://www.youtube.com/playlist?list=PLj2kg7A2Ti-BR7PWYShVMA9NfPlr7_PAS)
 
 ### How to run examples
 
